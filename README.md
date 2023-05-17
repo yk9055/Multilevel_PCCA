@@ -1,1 +1,1 @@
-# Multilevel_PCCA
+# Multilevel Probabilistic CCA
